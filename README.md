@@ -2,6 +2,6 @@ Please try these yourself until the assignment deadline. Please look for the sol
 
 NPTEL-Design Analysis And Algorithm - Programming Assignments Solutions
 
-The logic for some of the Algorithms programming problems : [Click here](https://drive.google.com/file/d/165TxHaAWb00pGvc5iQPQTkLr2qH1vXKH/view)
+* The logic for some of the Algorithms programming problems : [Click here](https://drive.google.com/file/d/165TxHaAWb00pGvc5iQPQTkLr2qH1vXKH/view) 
 --------------------------------------------------------------------------------
 `© 2025 Arknight007. All rights reserved.`
